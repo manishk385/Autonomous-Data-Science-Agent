@@ -4,6 +4,10 @@ DSmith AI is an autonomous data science agent designed to automate the end-to-en
 
 Instead of manually performing each stage of a data science project, DSmith AI uses an LLM-driven workflow to inspect the dataset, generate and execute data preparation code, train machine learning models, validate the results, and produce the final artifacts.
 
+## 🚀 Live Demo
+
+[**Try DSmith AI →**](https://autonomous-data-science-agent.onrender.com)
+
 ## 🚀 Key Capabilities
 
 - Automated dataset inspection and profiling
