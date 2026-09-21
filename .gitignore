@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+
+# Environment variables / secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# DSmith AI runtime/generated files
+uploads/
+workspace/
+
+# Generated ML models
+*.joblib
+
+# Testing/cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS files
+.DS_Store
+Thumbs.db
